@@ -1,39 +1,39 @@
 # Shop Membership Program with PHP/HTML、MySQL
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php1.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop1.PNG">
 <br>
 <br>
 
 ## 프로젝트 수행 절차
 
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php2.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop2.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php3.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop3.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php4.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop4.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php5.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop5.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php6.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop6.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php7.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop7.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php8.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop8.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php9.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop9.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php10.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop10.PNG">
 <br>
 <br>
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php11.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop11.PNG">
 <br>
 <br>
 
@@ -41,13 +41,13 @@
 
 ## 프로젝트 수행 결과
 
-![php12](https://github.com/cysim506/ShopMembership/blob/main/php12.gif)
+![php12](https://github.com/cysim506/ShopMembership/blob/main/shop12.gif)
 <br>
 <br>
 <br>
 
 
-![php12](https://github.com/cysim506/ShopMembership/blob/main/php13.gif)
+![php12](https://github.com/cysim506/ShopMembership/blob/main/shop13.gif)
 <br>
 <br>
 <br>
