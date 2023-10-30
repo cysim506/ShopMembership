@@ -55,4 +55,4 @@
 
 ## 자체 평가 의견
 
-<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/php14.PNG">
+<img width="８00" alt="image" src="https://github.com/cysim506/ShopMembership/blob/main/shop14.PNG">
